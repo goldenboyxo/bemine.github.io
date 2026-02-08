@@ -7,9 +7,9 @@ const question = document.getElementById("question");
 const texts = [
   "Why are you being like this? 😭",
   "Stop playing games 💔",
-  "You know you want to say yes 👀",
+  "You know you want to say yes",
   "I don't wanna beg 🥺",
-  "Okay, mnaybe I will beg 😌",
+  "Okay, maybe I will beg 👀",
   "You just want me to beg, khra",
   "okay pleaseeeee",
   "Say yes for me mami 👀",
